@@ -12,11 +12,7 @@ to avoid inconvenience learn in given order:
 6. loops
 7. pattern with nested loops
 8. recursion -1
-9. recursion -2
-10. list-1
-11. list-2
-12. nested lists
-13. strings
+9. lists
 
 
 
