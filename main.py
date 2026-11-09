@@ -5,11 +5,11 @@
 
 # print(dict.items()) # [('name', 'Ridam'), ('old', 24), ('new', 1.0)]
 
-s="asdfghjkrtecuwasgdfjsgjsjdfjags"
-hash={}
-for i in range(len(s)):
-    hash[s[i]] = hash.get(s[i],0) + 1
-print(hash)
+# s="asdfghjkrtecuwasgdfjsgjsjdfjags"
+# hash={}
+# for i in range(len(s)):
+#     hash[s[i]] = hash.get(s[i],0) + 1
+# print(hash)
 
 
 #list
