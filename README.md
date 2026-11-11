@@ -13,6 +13,11 @@ to avoid inconvenience learn in given order:
 7. pattern with nested loops
 8. recursion -1
 9. lists
+10. tuples
+11. dictionary
+12. strings
+13. sets
+
 
 
 
