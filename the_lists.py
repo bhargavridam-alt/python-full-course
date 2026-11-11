@@ -36,7 +36,7 @@ print(a) #output: [12, 32, 76, 243, 564]
 # similar as pop but removes by value
 a= ["ridam","rupali",44, "ridam", "shark", 431,987]
 a.remove("ridam")
-print(a) output: ['rupali', 44,'ridam', ' shark', 431, 987]
+print(a) #output: ['rupali', 44,'ridam', ' shark', 431, 987]
 
 #del
 #delete by index
@@ -61,7 +61,7 @@ print(a) #output: [2, 6, 12, 21, 23, 43, 45, 54]
 # **************note we can use it in a way like a.sort(reverse=True),it will descend the order.
 # reverse
 a = ["ridam","ansh",44,66.6,False]
-a.reverse() reverses the list irrespective of data types
+a.reverse() #reverses the list irrespective of data types
 print(a) #output: [False, 66.6, 44, 'ansh', 'ridam']
 
 # extend 
@@ -94,7 +94,7 @@ else:
 
 # list comprehension.
 # to create a list of large range we use this one .
-a = [i for i in range(1,21)] here the i can be any expression.
+a = [i for i in range(1,21)] #here the i can be any expression.
 print(a) #output:[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
 # here we can also use ternary opeator.
 a = ["even" if i%2==0 else "odd" for i in range(1,21)]
